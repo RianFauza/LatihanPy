@@ -3,6 +3,7 @@
 • Menjalankan Python Console
 • Menampilkan tulisan “Hello” dilayar
 • Menampilkan tulisan “Saya sedang belajar python” dilayar
+![Gambar1]gambar/pic1.png
 
 
 # Latihan 2
@@ -12,7 +13,7 @@
 • Mendefinisikan variable b dengan nilai 6
 • Mencetak nilai variable a dan b
 • Mencetak hasil penjumlahan a+b
-
+![Gambar1]gambar/pic2.png
 
 
 # Latihan 3
@@ -22,4 +23,5 @@
 pada folder lab2py pada direktori kerja anda)
 • Menggunakan fungsi input untuk mengambil nilai variabel dari
 keyboard.
+![Gambar1]gambar/pic3.png
 
