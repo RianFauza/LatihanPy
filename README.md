@@ -32,3 +32,9 @@
 ## Virtual Environment (Venv)
 ![Gambar1](gambar/pic7.png)
 
+## Menambahkan File Baru
+#### - main.py
+![Gambar1](gambar/pic8.png)
+
+## Menjalankan Program
+![Gambar1](gambar/pic6.png)
