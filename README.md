@@ -30,5 +30,5 @@
 ![Gambar1](gambar/pic5.png)
 
 ## Virtual Environment (Venv)
-![Gambar1](gambar/pic6.png)
+![Gambar1](gambar/pic7.png)
 
